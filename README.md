@@ -13,3 +13,5 @@ Daily and Hourly Trends: Bar and line charts illustrating sales trends over time
 ![My project dashboard image](https://github.com/VipulSingh2/Pizza-Sales-Ananlysis-using-python/blob/main/Dashboard1.png)
 ![Second image of my dashboard](https://github.com/VipulSingh2/Pizza-Sales-Ananlysis-using-python/blob/main/Dashboard2.png)
 ![Third image of the dashboard](https://github.com/VipulSingh2/Pizza-Sales-Ananlysis-using-python/blob/main/Dashboard3.png)
+![fourth image of the dashboard](https://github.com/VipulSingh2/Pizza-Sales-Ananlysis-using-python/blob/main/Dashboard4.png)
+some of the graphs you see two times in the image of the dashboard but actually they are once in the dashboard
