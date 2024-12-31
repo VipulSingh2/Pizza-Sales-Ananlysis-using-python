@@ -11,3 +11,4 @@ Top and Worst Ordered Pizzas: Visualize the most and least popular pizzas.
 Category and Size Distribution: Pie charts showing the distribution of pizza categories and sizes.
 Daily and Hourly Trends: Bar and line charts illustrating sales trends over time.
 ![My project dashboard image](https://github.com/VipulSingh2/Pizza-Sales-Ananlysis-using-python/blob/main/Dashboard1.png)
+(https://github.com/VipulSingh2/Pizza-Sales-Ananlysis-using-python/blob/main/Dashboard2.png)
