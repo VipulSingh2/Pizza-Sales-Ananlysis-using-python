@@ -6,3 +6,6 @@ import visual
 
 # setting the page config
 st.set_page_config("🍕 Sales Analysis")
+# Load the dataset
+st.title("🍕Pizza Sales Analysis🍕")
+df = pd.read_csv(r'pizzas.csv')
