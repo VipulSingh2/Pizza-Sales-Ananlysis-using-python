@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
-import mplcyberpunk
+#import mplcyberpunk
 import visual
 
 # setting the page config
@@ -31,7 +31,7 @@ with st.form(key='plotting'):
         col1,col2=st.columns(2)
         with col1:
             st.subheader("10 Most Orded Pizzas")
-            plt.style.use('cyberpunk')
+            #plt.style.use('cyberpunk')
             fig,ax = plt.subplots()
             ax.bar(x = most_orded.index,height = most_orded.values,width = 0.6,color='lime')
             plt.xlabel("pizza Name",fontsize = 15)
@@ -41,7 +41,7 @@ with st.form(key='plotting'):
             st.pyplot(fig)
         with col2:
             st.subheader("10 wrost Orded Pizzas")
-            plt.style.use('cyberpunk')
+            #plt.style.use('cyberpunk')
             fig,ax = plt.subplots()
             ax.bar(x = wrost_orded.index,height = wrost_orded.values,width = 0.6,color ='greenyellow')
             plt.xlabel("pizza Name",fontsize=15)
