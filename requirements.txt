@@ -1,5 +1,5 @@
-streamlit
-numpy
-pandas
-matplotlib
-mlpcyberpunk
+streamlit == 1.26.1
+numpy == 1.26.1
+pandas ==1.26.1
+mplcyberpunk == 1.26.1
+matplotlib == 1.26.1
