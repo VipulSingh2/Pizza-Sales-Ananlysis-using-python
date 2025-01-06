@@ -103,6 +103,7 @@ with col1:
     plt.ylabel("Pizzas Sold", fontsize=15)
     plt.xticks(fontsize=12)
     plt.yticks(fontsize=12)
+    plt.grid()
     st.pyplot(fig)
 
 with col2:
