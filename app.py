@@ -17,8 +17,8 @@ st.dataframe(preprocessed_df)
 # making a button to show analysis
 
 #with st.form(key='plotting'):
-    button = st.form_submit_button("Show Ananlysis")
-    if button:
+    #button = st.form_submit_button("Show Ananlysis")
+    #if button:
 total_sales,total_orders,total_sold,most_orded,wrost_orded,daily,category,size,pizza_sold,line = visual.kpi_plotter(df)
 col1,col2,col3 = st.columns(3)
 with col1:
